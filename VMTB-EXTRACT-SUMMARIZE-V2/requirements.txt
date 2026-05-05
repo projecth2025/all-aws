@@ -1,0 +1,9 @@
+# requirements.txt
+boto3
+botocore
+Pillow
+langgraph
+langchain-core
+langsmith
+supabase
+requests

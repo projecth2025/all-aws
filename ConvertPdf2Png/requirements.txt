@@ -1,0 +1,4 @@
+boto3
+requests
+Pillow
+PyMuPDF==1.23.26
